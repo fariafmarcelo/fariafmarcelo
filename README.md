@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **React, Typescript**
 
-- 📫 Onde me encontrar **faria.marcelofilho@gmail.com**
+- 📫 E-mail para contato **faria.marcelofilho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
