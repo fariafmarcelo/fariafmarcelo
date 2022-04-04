@@ -1,5 +1,6 @@
-<h1 align="center">Fala Devs 👋, meu nome é Marcelo de Faria</h1>
-<h3 align="center">Sou um Front-End Developer apaixonado por React do interior de São Paulo.</h3>
+<h1 align="left">Fala Devs 👋, meu nome é Marcelo de Faria</h1>
+<h3 align="left">Sou um Front-End Developer apaixonado por React do interior de São Paulo.</h3>
+<p align="left"> ![](https://komarev.com/ghpvc/?username=fariafmarcelo&color=blueviolet) </p>
 
 - 🔭 Estou trabalhando atualmente na **Big Data Corp**
 
