@@ -23,5 +23,5 @@
 <h3 align="left">⚙️ &nbsp;GitHub Analytics: </h3>
 
 <p align="left">
-<img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariafmarcelo&layout=compact&theme=vision-friendly-dark" alt="marcelo faria most languages"/> <img width="420em" src="https://github-readme-stats.vercel.app/api?username=fariafmarcelo&show_icons=true&theme=vision-friendly-dark" alt="marcelo faria stats"/>
+<img height="100rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariafmarcelo&layout=compact&theme=vision-friendly-dark" alt="marcelo faria most languages"/> <img height="100rem" src="https://github-readme-stats.vercel.app/api?username=fariafmarcelo&show_icons=true&theme=vision-friendly-dark" alt="marcelo faria stats"/>
 </p>
